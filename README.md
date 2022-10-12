@@ -5,7 +5,6 @@
 - 👀 I’m interested in each and every type of technology and I love to code.
 - 🌱 Currently learning Computer Engineering as a freshman in a Government Engineering College.
 - 💞️ Looking forward to collaborate on any interesting project in the field of computer technology.
-- 📫 Let's Connect:<br>  
 
 ## Github Stats
 
